@@ -1,7 +1,7 @@
 # SuperTransport
 Transport Controller for use with Logic Pro X and Pro Tools 12
 
-In the files aboove I have included the Max MSP Super Transport patch and the OSCulator files for Logic Pro X and Pro Tools 12.
+In the files aboove I have included the Max MSP Super Transport patch, the OSCulator files for Logic Pro X and Pro Tools 12 and my Presemtation.
 
 The link below allows the download of the Logic Pro X session.
 
