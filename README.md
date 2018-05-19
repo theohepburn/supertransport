@@ -27,3 +27,9 @@ https://www.apple.com/uk/logic-pro/
 **Pro Tools 12**
 
 http://www.avid.com/pro-tools
+
+
+
+The link below is to google drive folder just as a precaution, in case anything goes wrong with the GitHub repository.
+
+https://drive.google.com/drive/folders/1U9rZyhoOoM47mDxkaYeh_98d-zgXb5LL?usp=sharing
